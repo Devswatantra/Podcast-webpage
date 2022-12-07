@@ -1,0 +1,67 @@
+.image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 40vh;
+    width: 60vh;
+}
+
+.heading {
+    padding: 10px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.image2 {
+    height: 20vh;
+    width: 25vh;
+    padding: 10px;
+}
+
+.margin {
+    margin: 20px;
+}
+
+.h1 {
+    font-size: 20px;
+    color: #151765;
+}
+
+.p1 {
+    color: #5a7184;
+}
+
+.bg1 {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.p2 {
+    color: #ffffff;
+}
+
+.h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.margin1 {
+    margin: 8px;
+}
+
+.b1 {
+    text-align: right;
+}
+
+.b2 {
+    background-color: #151765;
+    border-radius: 15px;
+    border-width: 0px;
+    color: #ffffff;
+    font-weight: bold;
+    width: 14vh;
+}
